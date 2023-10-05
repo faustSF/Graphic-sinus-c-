@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\grafik\grafik\source.cpp(46): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\grafik\grafik\source.cpp(52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\grafik\grafik\source.cpp(56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  grafik.vcxproj -> C:\Users\user\source\repos\grafik\x64\Debug\grafik.exe
